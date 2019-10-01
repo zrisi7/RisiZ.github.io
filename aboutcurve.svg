@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="386.303" viewBox="0 0 1920 386.303">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #0c327f;
+      }
+
+      .cls-3 {
+        fill: #0e5092;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#18dfed"/>
+      <stop offset="1" stop-color="#0c2577"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y2="1.417" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" y2="1.507" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_16" data-name="Group 16" transform="translate(0 -691.697)">
+    <path id="Path_10" data-name="Path 10" class="cls-1" d="M10356,694s38-22,190,70,274,138,468,134,286-60,522-86,440,68,506,86,234-20,234-20v200H10356Z" transform="translate(-10356)"/>
+    <g id="Group_10" data-name="Group 10" transform="translate(-519 150)">
+      <path id="Polygon_8" data-name="Polygon 8" class="cls-1" d="M22.5,0,45,88H0Z" transform="translate(909 601)"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" class="cls-2" width="8" height="46" transform="translate(928 689)"/>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(95 92)">
+      <path id="Path_11" data-name="Path 11" class="cls-3" d="M0,0H8V46H0Z" transform="translate(965 700)"/>
+      <path id="Polygon_9" data-name="Polygon 9" class="cls-4" d="M18,0,36,69H0Z" transform="translate(951 654)"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(112 107.3)">
+      <rect id="Rectangle_15" data-name="Rectangle 15" class="cls-3" width="8" height="46" transform="translate(902 696.7)"/>
+      <path id="Path_6" data-name="Path 6" class="cls-5" d="M19.389,0,38.778,54.6H0Z" transform="translate(887 659.4)"/>
+    </g>
+  </g>
+</svg>
