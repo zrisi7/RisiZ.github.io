@@ -119,7 +119,7 @@ line-height:70px;
 
 
 .down {
-  background-image: url("images/down.svg");
+  background-image: url("down.svg");
 background-repeat: no-repeat;
 background-size: contain;
 width:25px;
@@ -346,7 +346,7 @@ ul {
 }
 
 /* .selected {
-    background-image: url("images/arrow.svg");
+    background-image: url("arrow.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width:15px;
@@ -377,14 +377,14 @@ ul {
 
 }
 .behance {
-    background-image: url("images/behance.png");
+    background-image: url("behance.png");
 }
 .linkedin {
-  background-image: url("images/linkedin.png");
+  background-image: url("linkedin.png");
 }
 
 .instagram {
-    background-image: url("images/instagram.png");
+    background-image: url("instagram.png");
 
 }
 
@@ -447,7 +447,7 @@ ul {
 }
 
 .projectimg1 {
-  background-image:url("images/jim.jpg");
+  background-image:url("jim.jpg");
   background-size: cover;
 
   background-repeat: no-repeat;

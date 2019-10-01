@@ -161,7 +161,7 @@ grid-row: auto;
     bottom: 0;
     width: 100%;
     height: 95vh;
-    background-image: url("images/homecurve.svg");
+    background-image: url("homecurve.svg");
     background-repeat: repeat-y;
     background-size: cover;
     z-index:-1
@@ -174,7 +174,7 @@ grid-row: auto;
   bottom: 0;
   width: 100%;
   height: 60vh;
-  background-image: url("images/homecurve2.svg");
+  background-image: url("homecurve2.svg");
   background-repeat: repeat-y;
   background-size: cover;
   z-index:-2
@@ -277,7 +277,7 @@ grid-row: auto;
 
       width: 100vw;
       height: 95vh;
-      background-image: url("images/homecurve.svg");
+      background-image: url("homecurve.svg");
       background-repeat: no-repeat;
       background-size: cover;
       z-index:-1
@@ -290,7 +290,7 @@ grid-row: auto;
     bottom: 0;
     width: 100%;
     height: 60vh;
-    background-image: url("images/homecurve2.svg");
+    background-image: url("homecurve2.svg");
     background-repeat: repeat-y;
     background-size: cover;
     z-index:-2
