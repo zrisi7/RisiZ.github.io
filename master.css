@@ -447,12 +447,39 @@ ul {
 }
 
 .projectimg1 {
-  background-image:url("jim.JPG");
+  background-image:url("jimcold.PNG");
   background-size: cover;
 
   background-repeat: no-repeat;
 }
 
+.alphabet {
+  background-image:url("alphabet.PNG");
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
+
+.ecobin {
+  background-image:url("ecobin.JPG");
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
+
+.inspogen {
+  background-image:url("inspo.PNG");
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
+
+.ecobinimg {
+  background-image:url("ecobinmock.JPG");
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
 
 
 
@@ -667,4 +694,3 @@ li {
 }
 
 }
-
