@@ -454,7 +454,7 @@ ul {
 }
 
 .alphabet {
-  background-image:url("alphabet.PNG");
+  background-image:url("alphabetimg.PNG");
   background-size: cover;
 
   background-repeat: no-repeat;
@@ -474,8 +474,19 @@ ul {
   background-repeat: no-repeat;
 }
 
+.inspogennav {
+  background-image:url("inspogennav.jpg");
+    background-repeat: no-repeat;
+}
+
+.inspogendesign {
+  background-image:url("inspogendesign.jpg");
+    background-repeat: no-repeat;
+}
+
+
 .ecobinimg {
-  background-image:url("ecobinmock.JPG");
+  background-image:url("ecofour.JPG");
   background-size: cover;
 
   background-repeat: no-repeat;
