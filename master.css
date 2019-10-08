@@ -448,14 +448,14 @@ ul {
 }
 
 .projectimg1 {
-  background-image:url("jimcold.PNG");
+  background-image:url("jimcold.png");
   background-size: cover;
 
   background-repeat: no-repeat;
 }
 
 .alphabet {
-  background-image:url("alphabetimg.PNG");
+  background-image:url("alphabetimg.png");
   background-size: cover;
 
   background-repeat: no-repeat;
@@ -469,7 +469,7 @@ ul {
 }
 
 .inspogen {
-  background-image:url("inspo.PNG");
+  background-image:url("inspo.png");
   background-size: cover;
 
   background-repeat: no-repeat;
@@ -499,7 +499,7 @@ ul {
 
 
 .ecobinimg {
-  background-image:url("ecofour.JPG");
+  background-image:url("ecofour.jpg");
   background-size: cover;
 
   background-repeat: no-repeat;
