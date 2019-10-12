@@ -81,7 +81,7 @@ body {
        grid-template-columns:  1fr 1fr;
 
        grid-gap: 50px;
-       /* background-color: #0C2577; */
+       background-color: white;
 
      }
 
@@ -189,7 +189,7 @@ body {
   grid-template-columns:  1fr 1fr;
 
   grid-gap: 50px;
-  /* background-color: #0C2577; */
+  background-color: white;
 
 }
 

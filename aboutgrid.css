@@ -738,11 +738,54 @@ li {
      display:none;
    }
  }
-/*~~~~~~~~ PHONE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~~~FULL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 @media only screen and (min-width: 1200px) {
 
   .box3a {
     width:350px;
   }
 
+}
+
+
+
+@media only screen and (max-width: 680px) {
+  .one {
+    margin-top:-300px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row: auto;
+
+    padding: 5%;
+
+
+  }
+
+  .two {
+      margin-top: 0px;
+      grid-column-start: 1;
+      grid-column-end: 4;
+    grid-row: auto;
+
+
+      padding: 5%;
+  }
+
+  .three {
+      margin-top: 150px;
+      grid-column-start: 1;
+      grid-column-end: 4;
+    grid-row: auto;
+
+
+      padding: 5%;
+
+  }
+
+  .wrapper2 {
+
+    height: 2500px;
+
+
+  }
 }

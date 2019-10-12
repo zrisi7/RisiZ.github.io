@@ -252,6 +252,8 @@ grid-column-end: 2;
 }
 
 
+
+
 @media only screen and (min-width: 680px) and (max-width: 1000px) {
 
   .menu {
@@ -430,6 +432,10 @@ grid-column-end: 2;
   .process {
     width: 200px;
     float:none;
+  }
+
+  .features {
+    margin-top: 120px;
   }
 
 }
