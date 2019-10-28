@@ -70,12 +70,13 @@ body {
   margin-top: 50px;
 }
 .wrapper2 {
-margin-top: 300px;
+margin-top: 0px;
   background-color:white !important;
 display: grid;
 grid-template-columns:  20% 30% 30% 20%;
 grid-auto-rows: 1fr 1fr 1fr 1fr 1fr;
 height: auto;
+
 
 }
 
@@ -85,7 +86,7 @@ grid-column-end: 2;
   grid-row: 1;
   height: 100px;
   width:100px;
-  /* background-color:red; */
+
 }
 
 .inner {
@@ -94,11 +95,11 @@ grid-column-end: 2;
   grid-row-start: 2;
   grid-row-end: 4;
   padding: 50px;
-  /* background-color: red; */
+  margin-top: -400px;
 }
 
 .innerright {
-
+margin-top: -400px;
   grid-column-start: 3;
   grid-column-end: 3;
   grid-row-start: 2;
