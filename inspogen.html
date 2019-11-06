@@ -1,303 +1,410 @@
 <!DOCTYPE html>
 <html lang="">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZRisi</title>
-      <link rel="stylesheet" href="master.css">
-        <link rel="stylesheet" href="works.css">
-
-
+    <title>Risi Zani</title>
+      <link rel="stylesheet" href="grid.css">
+        <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://use.typekit.net/hse1lum.css">
+<style>
+
+
+  @media only screen and (max-width: 768px) {
+
+    .holderprototype {
+      display: grid;
+      grid-template-columns: repeat(8, 1fr);
+      grid-column-gap: 0%;
+      height:50vh;
+      grid-template-rows: 10% 80% 5% 10% 80% 10%;
+    }
+
+    #myVideo {
+      width: 150%;
+    }
+
+    .holdersolution {
+      display: grid;
+      grid-template-columns: repeat(8, 1fr);
+      grid-column-gap: 3%;
+      height:75vh;
+      grid-template-rows: 5% 40% 45% 5%;
+    }
+
+  }
+
+
+  .ecobin {
+
+  }
+
+
+
+  @-moz-keyframes myfirst /* Firefox */
+  {
+  0%   {background:#CCEFF0;}
+  20%  {background:#BEE3D2;}
+  40%  {background:#10D0D0;}
+  60%  {background:#10D0D0;}
+  90%  {background:#BEE3D2;}
+  100%   {background:#CCEFF0;}
+
+  0%   {background:#CCEFF0;}
+  20%  {background:#BEE3D2;}
+  40%  {background:#10D0D0;}
+  60%  {background:#10D0D0;}
+  90%  {background:#BEE3D2;}
+  100%   {background:#CCEFF0;}
+
+  }
+
+     @-webkit-keyframes myfirst /* Firefox */
+  {
+    0%   {background:#CCEFF0;}
+    20%  {background:#BEE3D2;}
+    40%  {background:#10D0D0;}
+    60%  {background:#10D0D0;}
+    90%  {background:#BEE3D2;}
+    100%   {background:#CCEFF0;}
+
+    0%   {background:#CCEFF0;}
+    20%  {background:#BEE3D2;}
+    40%  {background:#10D0D0;}
+    60%  {background:#10D0D0;}
+    90%  {background:#BEE3D2;}
+    100%   {background:#CCEFF0;}
+  }
+
+  h1 {
+    color:#44C1C6;
+    font-size: 1.5vmax;
+
+  }
+
+  h2 {
+    color:#44C1C6;
+    margin-top: 0px;
+  }
+
+h4 {
+  color:#1C4E80;
+}
+  p {
+color:#0C327F
+  }
+
+.inspo {
+  width: 100%;
+  height: 100%;
+    margin-left:5%;
+    margin-top:-30px;
+
+}
+
+.holderprototype {
+  height: 90vh;
+}
+
+
+
+
+  </style>
 </head>
-
-
 <body>
 
-<div class="wrapper">
-  <div class="box1" style="z-index:4;">
-      <div class="border"></div>
-      <div class="nav">
-      <a href="index.html"><div class="logo">RISI ZANI</div></a>
+<div class="frontofproject">
 
-          <div class="ham">
-
-            <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu">
-<label for="openSidebarMenu" class="sidebarIconToggle">
-<div class="spinner diagonal part-1"></div>
-<div class="spinner horizontal"></div>
-<div class="spinner diagonal part-2"></div>
-</label>
+        <div class="header">
+              <div class="border"></div>
+              <div class="ham">
+                          <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu">
+                          <label for="openSidebarMenu" class="sidebarIconToggle">
+                          <div class="spinner diagonal part-1"></div>
+                          <div class="spinner horizontal"></div>
+                          <div class="spinner diagonal part-2"></div>
+                          </label>
 
 
-<div id="sidebarMenu">
-<ul class="sidebarMenuInner">
+                          <div id="sidebarMenu">
+                          <ul class="sidebarMenuInner">
 
-<li><a href="index.html"><h4> HOME</h4>
-</a></li>
-<li>  <a href="about.html"><h4>ABOUT</h4></a></li>
-<li>  <a href="work.html"><h4>WORK</h4></a></li>
-<li>  <a href="http://ixd0095.firebird.sheridanc.on.ca/risizonline.pdf" target="_blank"><h4>RESUME</h4></a></li>
-</ul>
-</div>
-
-          </div>
-
-
-          <div class="menu">
-
-            <ul>
-                <li><a href="index.html"><h4 style="font-size:14px;"> HOME
-         <div class="selected"></div> </h4>
-                </a></li>
-                <li>  <a href="about.html"><h4 style="font-size:14px;">ABOUT</h4></a></li>
-                <li>  <a href="work.html"><h4 style="font-size:14px;"><div class="active">WORK</div></h4></a></li>
-                  <li>  <a href="http://ixd0095.firebird.sheridanc.on.ca/risizonline.pdf" target="_blank"><h4 style="font-size:14px;">RESUME</h4></a></li>
-                <!-- <li>  <a href="#resume"><h4>RESUME</h4></a></li> -->
-
-                <a><li>  <div class="icon">  </div></li></a>
-                <a href="https://www.linkedin.com/in/risiz/" target="_blank">  <li>  <div class="linkedin icon"  style ="padding-right:20px;">  </div></li></a>
-                  <a href="https://www.behance.net/riseldazani" target="_blank"><li>  <div class="behance icon" style ="padding-right:20px;">  </div></li></a>
-                <a href="https://www.instagram.com/riszen7/" target="_blank">  <li>  <div class="instagram icon"  style ="padding-right:20px;"> </div></li> </a>
-            </ul>
-        </div>
-    </div>
-</div>
-
-      <div class="box2">
-      </div>
-
-      <div class="box3">
-          <div class="options" style="margin-top: 20px;">
-          <a href="Unitedway.html">Previous</a>
-          <div class="right"><a href="alphabettoy.html">Next</a></div>
-
-          </div>
-
-          <div class="projectcon">
-              <h1>Inspo Generator </h1>
-              <p> A case study for developing a inspiration generator website for artists and writers. <br>
-            The case covers the goal, navigation, small sample of user testing, competitors and design</p>
-
-                  <div class="projects inspogen">
-                      <a href="https://xd.adobe.com/view/7ad54bd8-acd3-4842-6ac2-b8c4d946111c-0ce4/?fullscreen&hints=off"target="_blank">
-                        <div class="visit">View Mockup</div>
-                      </a>
-                  </div>
-
-              <p style ="width:200px;"> <strong>Skills Used: Card sorting/user testing, navigation, UI & UX design</strong> <br> <br>
-<br>
-          </div>
-
-      </div>
-
-      <div class="box5">
-                <div class="buttons">
-                  <ul>
-                    <li><a href="#photos">
-                      <div class="buttonscroll"><h4>PROCESS</h4>
-                        <div class="down"></div></a>
-                        </div></div>
+                            <li><a href="index.html"><h2 style="font-size:15px; padding-bottom:20px;"> HOME</h2></a></li>
+                            <li>  <a href="aboutme.html"><h2 style="font-size:15px;padding-bottom:20px;">ABOUT</h2></a></li>
+                            <li>  <a href="work.html"><h2 style="font-size:14px; padding-bottom:20px;">WORK</h2></a></li>
+                          </ul>
+                          </div>
                     </div>
+              <div class="nav">
+              <div class="logo"><a href="index.html">RISI ZANI</a></div>
+
+        <!-- MENU -->
+                    <ul>
+                        <li>
+                          <a href="index.html"> HOME
+                        </a></li>
+                        <li>  <a href="aboutme.html">ABOUT</a></li>
+                        <li>  <a href="work.html">WORK</a></li>
+                    </ul>
+
+        <!-- Social Media ICONS-->
+                  <div class="socialmedia"><ul>
+                      <a href="https://www.linkedin.com/in/risiz/" target="_blank"> <div class="linkedin icon">  </div></a>
+                      <a href="https://www.behance.net/riseldazani" target="_blank"><div class="behance icon">  </div></a>
+                      <a href="https://www.instagram.com/riszen7/" target="_blank">  <div class="instagram icon"> </div></a>
+                </div>
+          </div>
         </div>
 
-
-
-
-        <div class="imageshare" style="margin-top:;">
-          <div id="photos"></div>
-          <div class="imgbox">
-            <h4 style="margin-bottom:50px;">Flowchart</h4>
-            <a href="file:///D:/Document/GitHub/RisiZ.github.io/inspogennav.jpg"target="_blank">
-              <div class="visit" style="float:left;">View Image</div>
-            </a>
-          <div class="extraphoto inspogennav"></div>
-
-
-          </div>
-
-
-          <div class="imgbox">
-              <h4 style="margin-bottom:50px;">Stylesheet</h4>
-          <div class="extraphoto inspogendesign"></div></div>
-
-          </div>
-
-
-<div class="wrapper2"style="cursor:auto;">
-
-  <h4 id="overview"></h4>
-  <div class="inner">
-
-        <div class="process" style="height:400px;">
-                <h4>Problem Statement</h4>
-                <p> Writers and artists all run into a block or need to make a
-quick decision in the process of developing their work; causing
-them to waste valuable time. Current similar generators lack in
-fast navigation, lack in visual design and imagery, don’t offer user’s
-an option for their input, and often don’t balance the amount
-of detail given to the user of the prompt/characteristic/inspiration.
-Providing very little customization can lead to frustration.
-An overwhelming amount of choices can increase the amount of
-wasted time rather than decreasing. Prompt generators don’t
-often include imagery. Imagery can make a bigger impact than
-words. </p>
-
-
+        <div class="secondmenu">
+          <a href="#overview"> <p>Overview</p></a>
+          <a href="#inspired"><p>Inspired</p></a>
+          <a href="#problem"><p>Problem, Goal & Features</p></a>
+          <a href="#competitors"><p>Competitors</p></a>
+            <a href="#research"><p>Research</p></a>
+            <a href="#userflow"><p>Userflow</p></a>
+            <a href="#style"><p>Style Guide</p></a>
+            <a href="#design"><p>Design/Prototype</p></a>
+            <a href="#takeback"><p>Takeback</p></a>
         </div>
 
-        <div class="process features" >
-                <h4>Competitors</h4>
-                <p>  Competitors such as seventhsanctum & masterpiece-generator lacked heavily
-                in user friendly experience because of their difficult navigation and in some cases
-              mislabeling of links.Their designs were dated, in some cases, gave information anxiety.
-             One competitor didn't have a search bar and the other didn't seem to have a home page.
-             Yet, they're the most used generators. </p>
-       </div>
+        <div class="dummyrowone"></div>
+        <div class="fullbackground" style="grid-row-start: 2;
+          grid-row-end:4;background-color:#CCEFF0"></div>
+        <div class="threetosixrow3">
+            <div class="inspo"></div>
+        </div>
 
-         <div class="process" style="height:600px;">
-               <h4> Navigation</h4>
-               <p>
-                 When developing the navigation I thought through the main aspects of a story:
-                 Characters, Plot, Scene. I also based it off an assignment from grade school, pulling out one item
-                 from each category (Character, Location & item). I thought about all
-                 aspects I'd like in a generator (as a writer) and organized it
-                 into sections. There's also the frustration of not being able to quickly generate one item and go.
-                 Therefor, at the top of each generator there is a quick generator and then an option for a detailed one.
-              </p>
+        <div id="overview"></div>
+        <div class="explaincon">
+            <div class="explanation" style ="margin-top:50px;">
+              <h2>InspoGen</h2>
+              <p>An inspiration generator that has a quick & advanced options.
+                Taking from personal conflicts & discussing with other writers
+                & artists. A solution for writers' & artists' block. Information
+                 architecture, user testing, UI & UX design.</p>
+            </div>
+          </div>
+
+        <div class="explaininfo" style ="margin-top:50px;"">
+            <h4>Tools</h4>
+            <p >ADOBE XD
+            </p>
+
+            <h4>Skills</h4>
+          <p>  UX & UI<br>
+  Information Architecture<br>
+  Research: Card Sorting, Interview
+
+
+
+                          </p>
+                      </div>
       </div>
+
+
+<div class="process">
+  <div class="brigadequestion holder" style="background-color:#CCEFF0;">
+      <div id="inspired"></div>
+        <div class="threetofive"><div class="inspodream"></div></div>
+        <div class="question fivetosix">
+        <h1 style="margin-bottom:20px;">Inspired by my passion for writing and digital painting</h1>
+
+        <h4>My Personal Experience</h4>
+        <p>As a creative writer & digital painter, I'd fall into times where I need quick inspiration or a decision to be made to keep going on forward,
+        instead of spending a lot of time dwelling on one decision. I didn't want to create generators that cheated the process of creating either. I'm
+      currently looking to fully develop the website (except a more modified design). This is based off my first use of javascript project <a href="http://ixd0095.firebird.sheridanc.on.ca/prompt_gen2/"style ="text-decoration: underline;">Prompt Generator</a></p>
+        </div>
   </div>
 
+  <div class="holdersolution">
+      <div id="problem"></div>
+    <div class="explanation three column2" style="height:150px;">
+      <h2>Problem Statement</h2>
+      <p>Writers and artists need <strong>quick inspiration</strong> or decision to continue their work, rather than losing<strong> valuable time</strong>. Current generator/inspiration websites either have only words, or pictures. Navigation is confusing, too dated or missing aspects that is normally. In addition, they tend to have too little information or not enough</p>
+        <br><br>
 
-<div class="innerright" >
-
-  <div class="process right" style="height:450px;" >
-          <h4>Project Goal</h4>
-          <p>  Inspiration Generator’s goal is to cater to three
+        <h2> Project Goal</h2>
+        <p>Inspiration Generator’s goal is to cater to three
 different users (hobbyists, teachers, professionals) who are
 story creators. The website will allow a level of personalization
 so that the user may receive the best options. The
 website is consistent of user friendly navigation, providing
 the user to choose the level of customization, inspiring
-and quality imagery and allows users to input their suggestions
-and allow them to create their own generators.
-This all allows the user to save overall time and become
-inspired when they are at writer’s block.  </p>
+and quality imagery </p>
 
-<h4>Target Audience</h4>
-<p>  The target audience is users whom are over the
-age of fourteen who are either hobbyists (writers/artists),
-professionals or teachers who may use it as assignment.  </p>
- </div>
+    </div>
 
-        <div class="process right features">
 
-                <h4>User Testing</h4>
-                <p> The first method was card sorting. Through card sorting, it taught
-                  that users associated words differently than imaged. Some associated
-                  location with a time period, another a country and so on.
-                  The user testing of a website was prior to the development of designing the website. It was based off
-                one of the current generators: seventhsanctum, to grab understanding of what users needed and how
-                long they took to complete a task.
-                to create my own.  </p>
-         </div>
+    <div class="container fivetosix">
+          <h1 style=" font-size: 25px;
+          font-family: museo-sans-rounded, sans-serif;
+          font-weight: 700;  color:#FAB42A;">Features</h1>
+          <ul>
+          <li>
+            <input type="checkbox" checked>
+            <i></i>
+            <h2>Quick or Advanced</h2>
+            <p> The first generators in each page is the quick version. A person who'se looking to do something quick is going to stay on the site for a shorter amount of time and give up quickly.
+            However, someone who'se looking for in more depth will stay longer. Thus, advanced is placed second. It has a lot of details, covering different aspects of a story or design. </p>
+          </li>
+          <li>
+            <input type="checkbox" checked>
+            <i></i>
+            <h2>Word & Picture Generators</h2>
+            <p>Most generators just have either one or the other. Images spark inspirations as well. It was important to include it, while also sourcing images from different websites that are free to use.</p>
+          </li>
+          <li>
+            <input type="checkbox" checked>
+            <i></i>
+            <h2>Save/Copy</h2>
+            <p> The ability to save/copy or even download what was generated for later onto their own computer.</p>
+          </li>
+          </ul>
+                </div>
+  </div>
 
-         <div class="process right" >
+  <div class="workexperience holdersolution" style="background-color:#CCEFF0">
+        <div id="competitors"></div>
+    <div class="threetosixrow2">
+      <h2 style="font-size:60px;">Competitors</h2>
+      <h4>Masterpiece-generator.uk<br>
+        Seventhsanctum.com
+</h4>
 
-                 <h4 style="margin-bottom:25px;">Design & Inspiration</h4>
-                 <p>The focus was to create an inspiring, earthy and serene, modern design.
-                 That resulted to using a fairly pastel color palette, with a green blue being
-               the main color because of it's association with creativity. I also focused on
-             certain colors causing different actions (for buttons). I was inspired by a
-           previous project I did making a working prompt generator (I've always been fascinated by generators) using Html, Css and Javascript.
-         </p>
+    </div>
+    <div class="five">
+
+    <h4 style="margin-bottom:-10px;">Summary</h4>
+    <ul>
+        <li style="margin-left:-40px;">• Dated Design </li>
+        <li style="margin-left:-40px;">• Not user friendly: links are not correct </li>
+          <li style="margin-left:-40px;">• Layout is poor, confusing and breaking rules</li>
+            <li style="margin-left:-40px;">• Too complex answers or no filtering system</li>
+            <li style="margin-left:-40px;">• Information Anxiety.</li>
+    </ul>
+  </div>
+  </div>
+
+  <div class="research holdersolution" style="background-color:#FFF4E8">
+        <div id="research"></div>
+    <div class="threetosixrow2">
+        <div class="insptest"></div>
+    </div>
+    <div class="five">
+
+    <h2 style="margin-bottom:-10px;">Research</h2>
+    <h4 style="margin-top:20px;">Summary</h4>
+    <p>
+Users often associated different words in different categories all together or locations. For example:
+<br><br>
+• The word 'settings' is thought to be located in Genre<br>
+• Location would include time.<br>
+• In other cases, an option meant random, twists etc.<br>
+• It’s expected that plots would normally be include genres.<br>
+• Location would have a word description.<br>
+</p>
+
+    <ul>
+        <li style="margin-left:-40px;">• Dated Design </li>
+        <li style="margin-left:-40px;">• Not user friendly: links are not correct </li>
+          <li style="margin-left:-40px;">• Layout is poor, confusing and breaking rules</li>
+            <li style="margin-left:-40px;">• Too complex answers or no filtering system</li>
+            <li style="margin-left:-40px;">• Information Anxiety.</li>
+    </ul>
+  </div>
+  </div>
+
+  <div class ="holderprototype">
+      <div id="userflow"></div>
+        <h2 class="three" style="grid-row:1; margin-top:30px;">Userflow</h2>
+      <div class="inspuser threetosixrow2"></div>
+  </div>
+
+  <div class ="holderprototype"  style="background-color:#CCEFF0">
+      <div id="style"></div>
+        <h2 class="three" style="grid-row:1; margin-top:30px;">Style guide</h2>
+      <div class="inspstyle threetosixrow2"></div>
+  </div>
+  <div id="design"></div>
+
+  <div class="holderprototype">
+
+          <div class="four">
+            <div class="inspchar"></div>
           </div>
 
 
 
+          <div class="rightside" style="background-color:#FFF4E8"></div>
+          <div class="leftside" style="background-color:#FFD88A"></div>
+          <div class="designinfo fivetosixrow4">
+            <h2>Design</h2>
+            <ul>
+              <li style="margin-left:-40px;">• Quick Generator Placed first</li>
+              <li style="margin-left:-40px;">• Filtering System </li>
+              <li style="margin-left:-40px;">• Contains cards cover three different areas ex.Biological, Personality & history</li>
+            </ul>
+
+              <h4 style="margin-top:20px;">Colorscheme</h4>
+              <p style="margin-top:0px;"><i>Minimal, pastel, inspiring</i></p>
+              <ul>
+                <li style="margin-left:-40px;">• Teal resembles creativity, calmness</li>
+                <li style="margin-left:-40px;">• Used pale tones of color so that it's not too distracting but allows the user be able to distinct areas</li>
+                <li style="margin-left:-40px;">• Buttons have a clear color to resemble change</li>
+              </ul>
+              <a href="https://xd.adobe.com/view/7ad54bd8-acd3-4842-6ac2-b8c4d946111c-0ce4/?fullscreen&hints=off" target="_blank" style="text-decoration: none;">
+            <div class="highlightbutton" style="margin-left:0px; background-color:#44C1C6">View Prototype</div></a>
+
+          </div>
+
+  </div>
+
+
+    <div id="takeback"></div>
+  <div class="holdersolutiontwo">
+
+      <div class="three">
+        <div class="explanation" >
+          <h2>Takeback</h2>
+          <p>
+            • Time management<br>
+• Prioritizing certain aspects<br>
+• How different words are associated with different words then expected<br>
+• Experience in conducting interviews<br>
+• What it means to present for design verses business or problem solving solution<br>
+</p>
+        </div>
+
+          <div class="explanation" style="height:110px; margin-top: 20px;">
+            <h2>Result</h2>
+            <p> A website that I truly want to see the end of. From my personal use but also to share for others needing inspiration.
+ Learning to love being wrong to learn the many different ways people think. </p>
+          </div>
+
+
+      </div>
+
+      <div class="footer"></div>
+
+
+  </div>
+
+
 
 </div>
 
 
-
-
-</div>
-
-
-
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="jsfile.js"></script>
+<script>
 
 
 
+</script>
 
 
 
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script>
-
-  function myFunction() {
-  var x = document.getElementById("myLinks");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-
-  $(window).scroll(function() {
-
-
-
-
-        var scroll = $(window).scrollTop();
-            $('.box3, .slogan').css({'opacity':(( 150-scroll )/400)+0.6});
-        });
-
-
-
-
-      // Select all links with hashes
-      $('a[href*="#"]')
-        // Remove links that don't actually link to anything
-        .not('[href="#"]')
-        .not('[href="#0"]')
-        .click(function(event) {
-          // On-page links
-          if (
-            location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
-            &&
-            location.hostname == this.hostname
-          ) {
-            // Figure out element to scroll to
-            var target = $(this.hash);
-            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-            // Does a scroll target exist?
-            if (target.length) {
-              // Only prevent default if animation is actually gonna happen
-              event.preventDefault();
-              $('html, body').animate({
-                scrollTop: target.offset().top
-              }, 1000, function() {
-                // Callback after animation
-                // Must change focus!
-                var $target = $(target);
-                $target.focus();
-                if ($target.is(":focus")) { // Checking if the target was focused
-                  return false;
-                } else {
-                  $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
-                  $target.focus(); // Set focus again
-                };
-              });
-            }
-          }
-        });
-
-
-
-  </script>
-
+<!-- <p style="float:right; margin-right:40px;  color:#18DFED;"> Website by: Risi Zani</p> -->
 </body>
-
 </html>
