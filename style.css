@@ -292,6 +292,14 @@ display:none;
 
 }
 
+.inspofit {
+  background-size:cover;
+  height:100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("inspofit.png")
+}
+
 .frontofproject .brigade {
   height:100%;
   width: 100%;
@@ -796,8 +804,8 @@ transform: rotateX(0deg);
 
 .projectsmall {
    border-radius:5px;
- height: 350px;
-   width: 350px;
+   width: 100%;
+   height: 100%;
  margin-bottom:20px;
    transition: all 0.3s;
 
@@ -811,12 +819,12 @@ transform: rotateX(0deg);
 }
 
 .projectsmallin {
-  height: 300px;
-    width: 300px;
+  width: 100%;
+  height: 70%;
  background-color:#CCEFF0;
  transition: all 0.3s;
  border-radius:5px;
- padding: 20px;
+
   margin-bottom:20px;
 
 }
@@ -875,6 +883,7 @@ transform: rotateX(0deg);
     width: 200px !important;
 
  }
+
 
 
 
@@ -969,7 +978,7 @@ margin-left: 0%;}
 
 
  .project {
-   width: 180px;
+   width: 190px;
    height: 100px;
    background-color:#C7F2E5;
    transition: all 0.3s;
@@ -995,10 +1004,7 @@ margin-left: 0%;}
 
  }
 
- .projectsmalla {
-   padding-bottom:100px;
 
- }
 
  .projectsmallin {
    border-radius:5px;
