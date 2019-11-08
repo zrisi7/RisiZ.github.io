@@ -20,6 +20,10 @@ a {
   text-decoration:none;
 }
 
+.menusel:hover {
+  color:#18DFED
+}
+
 /*************************** FONTS *********************/
 
 h1 {
@@ -329,6 +333,15 @@ margin-left: 20%;}
   background-image: url("book.png");
 }
 
+.vrgoogle {
+  background-size:contain;
+  height:100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("vr.png");
+  background-color:#F7B529;
+}
+
 .inspo {
   background-size:contain;
   height:115%;
@@ -541,7 +554,59 @@ margin-left: 20%;}
   margin-top:-50px;
 }
 
+.vrtimeline {
+  background-size:contain;
+  height:100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("vrtimeline.jpg");
+}
 
+.researchvr {
+  background-size:contain;
+  height:150%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("vrresearch.jpg");
+}
+.vrideas {
+  background-size:contain;
+  height:90%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("vrideas.png");
+}
+
+.vrmockup {
+  background-size:contain;
+  height:90%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("mockup.png");
+}
+
+.vrmodalfin {
+  background-size:contain;
+  height:100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("finalmodel.png");
+}
+
+.vrperson {
+  background-size:contain;
+  height:100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-image: url("vrperson.svg");
+}
+.vrrender {
+  background-size:cover;
+  height:100%;
+  width: 50%;
+  background-repeat: no-repeat;
+  background-image: url("vr.png");
+}
 #myVideo {
 
   width: 100%;

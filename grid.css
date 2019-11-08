@@ -41,6 +41,8 @@
   margin-left:10%;
 }
 
+
+
 .frontofproject {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
@@ -83,7 +85,7 @@
   grid-template-columns: repeat(8, 1fr);
   grid-column-gap: 3%;
   height:55vh;
-  grid-template-rows: 16% 60% 10%;
+  grid-template-rows: 8% 60% 10%;
 }
 
 .holdersolutiontwo {
@@ -297,7 +299,7 @@
   display: grid;
   grid-template-columns: repeat(8, 1fr);
   grid-column-gap: 5%;
-  grid-template-rows: 10% 60% 4% 40% 10%;
+  grid-template-rows: 10% 60% 2% 40% 10%;
   height: 1000px;
   width: 100vw;
   padding-bottom:200px;
@@ -341,9 +343,12 @@
 .footer {
   grid-column-start: 1;
   grid-column-end: 9;
-  height: 200px;
+  height: 100px;
   width: 100%;
-  margin-top:100px;
+  margin-top:50px;
+
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
 }
 
 /************** RESPONSIVE PHONE & IPAD **************/
@@ -559,6 +564,8 @@
     grid-column-end:8;
     grid-row:2;
   }
+
+
 
   /*************** ABOUT ME **************/
   .frontabout {
