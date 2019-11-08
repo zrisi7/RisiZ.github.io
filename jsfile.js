@@ -126,7 +126,9 @@ const phrases = [
   'Gal with a long list of passions, hobbies & skills',
   'Someone who takes initiative',
   'Has been to five hackathons',
-  'A storyteller, creative writer'
+  'A storyteller, creative writer',
+  'An Interior Decorater Graduate',
+  'Can render 3D interior spaces'
 ]
 
 const el = document.querySelector('.text')
