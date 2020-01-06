@@ -21,7 +21,8 @@ a {
 }
 
 .menusel:hover {
-  color:#18DFED
+transform: scale(1.5);
+
 }
 
 /*************************** FONTS *********************/
