@@ -5,411 +5,385 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Risi Zani</title>
       <link rel="stylesheet" href="grid.css">
-        <link rel="stylesheet" href="style.css">
+
+        <link rel="stylesheet" href="main.css">
+              <link rel="stylesheet" href="responsive.css">
     <link rel="stylesheet" href="https://use.typekit.net/hse1lum.css">
-<style>
 
-
-  .holdersolution {
-
-    grid-template-rows: 5% 60% 10%;
-  }
-  @media only screen and (max-width: 768px) {
-
-    .holderprototype {
-      display: grid;
-      grid-template-columns: repeat(8, 1fr);
-      grid-column-gap: 0%;
-      height:50vh;
-      grid-template-rows: 10% 80% 5% 10% 80% 10%;
-    }
-
-    #myVideo {
-      width: 150%;
-    }
-
-    .holdersolution {
-      display: grid;
-      grid-template-columns: repeat(8, 1fr);
-      grid-column-gap: 3%;
-      height:75vh;
-      grid-template-rows: 5% 40% 45% 5%;
-    }
-
-  }
-
-
-  .ecobin {
-
-  }
-
-
-
-
-  @-moz-keyframes myfirst /* Firefox */
-  {
-  0%   {background:#CCEFF0;}
-  20%  {background:#BEE3D2;}
-  40%  {background:#10D0D0;}
-  60%  {background:#10D0D0;}
-  90%  {background:#BEE3D2;}
-  100%   {background:#CCEFF0;}
-
-  0%   {background:#CCEFF0;}
-  20%  {background:#BEE3D2;}
-  40%  {background:#10D0D0;}
-  60%  {background:#10D0D0;}
-  90%  {background:#BEE3D2;}
-  100%   {background:#CCEFF0;}
-
-  }
-
-     @-webkit-keyframes myfirst /* Firefox */
-  {
-    0%   {background:#CCEFF0;}
-    20%  {background:#BEE3D2;}
-    40%  {background:#10D0D0;}
-    60%  {background:#10D0D0;}
-    90%  {background:#BEE3D2;}
-    100%   {background:#CCEFF0;}
-
-    0%   {background:#CCEFF0;}
-    20%  {background:#BEE3D2;}
-    40%  {background:#10D0D0;}
-    60%  {background:#10D0D0;}
-    90%  {background:#BEE3D2;}
-    100%   {background:#CCEFF0;}
-  }
-
-  h1 {
-    color:#44C1C6;
-    font-size: 1.5vmax;
-
-  }
-
-  h2 {
-    color:#44C1C6;
-    margin-top: 0px;
-  }
-
-h4 {
-  color:#1C4E80;
-}
-  p {
-color:#0C327F
-  }
-
-.inspo {
-  width: 100%;
-  height: 100%;
-    margin-left:5%;
-    margin-top:-30px;
-
-}
-
-.holderprototype {
-  height: 90vh;
-}
-
-
-
-
-  </style>
 </head>
+
+<style>
+.projectview:hover {
+  transform: scale(1);
+     transition: all 0.5s ease-in-out;
+box-shadow:  0px 3px 6px rgba(0, 0, 0, 0.16);
+  cursor:auto;
+}
+
+h1 {
+  color:#44C1C6;
+}
+
+h2 {
+
+}
+h3 {
+  color:#44C1C6;
+}
+strong {
+    color: #44C1C6;
+}
+
+.question {
+  background-color:#44C1C6;
+}
+
+</style>
+
 <body>
 
-<div class="frontofproject">
 
-        <div class="header">
-              <div class="border"></div>
-              <div class="ham">
-                          <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu">
-                          <label for="openSidebarMenu" class="sidebarIconToggle">
-                          <div class="spinner diagonal part-1"></div>
-                          <div class="spinner horizontal"></div>
-                          <div class="spinner diagonal part-2"></div>
-                          </label>
+  <div class="rgbborder"></div>
+  <div class="mobilemenu">
+    <div class="mobilelogo">
+    </div>
+
+    <ul>
+        <li><a href="index.html" >Home</a></li>
+        <li><a href="about.html">About</a></li>
+    </ul>
+  </div>
 
 
-                          <div id="sidebarMenu">
-                          <ul class="sidebarMenuInner">
-
-                            <li><a href="index.html"><h2 style="font-size:15px; padding-bottom:20px;"> HOME</h2></a></li>
-                            <li>  <a href="aboutme.html"><h2 style="font-size:15px;padding-bottom:20px;">ABOUT</h2></a></li>
-                            <li>  <a href="work.html"><h2 style="font-size:14px; padding-bottom:20px;">WORK</h2></a></li>
-                          </ul>
+  <div class="bodycontainer">
+    <div class ="container">
+        <div class="menucontainer">
+            <div class="menubox">
+                <div class="logoholder">
+                          <div class="logof1">
+                          R<strong>I</strong>
                           </div>
-                    </div>
-              <div class="nav">
-              <div class="logo"><a href="index.html">RISI ZANI</a></div>
+                          <div class="logof2">
+                          S<strong>I</strong>
+                          </div>
+                </div>
 
-        <!-- MENU -->
+                <div class="menuplacement">
                     <ul>
-                        <li>
-                          <a href="index.html"> HOME
-                        </a></li>
-                        <li>  <a href="aboutme.html">ABOUT</a></li>
-                        <li>  <a href="work.html">WORK</a></li>
+                        <li><a href="index.html" >Home</a></li>
+                        <li style="padding-top:20px;"><a href="about.html">About</a></li>
+                    </ul>
+                </div>
+
+                <div class="line"></div>
+
+                <div class="submenu">
+                    <ul>
+                        <li><h3>InspoGen<h3></li>
+                        <li><a href="#question">Question</a></li>
+                        <li style><a href="#tools">Tools</a></li>
+                          <li style><a href="#promptgen">Prompt Gen</a></li>
+                            <li style><a href="#direction">Direction</a></li>
+                            <li style><a href="#research">Research</a></li>
+                            <li style><a href="#style guide">Style guide</a></li>
+                            <li style><a href="#features">Features</a></li>
+                            <li style><a href="#design">Design</a></li>
+                            <li style><a href="#reflection">Reflection</a></li>
                     </ul>
 
-        <!-- Social Media ICONS-->
-                  <div class="socialmedia"><ul>
-                      <a href="https://www.linkedin.com/in/risiz/" target="_blank"> <div class="linkedin icon">  </div></a>
-                      <a href="https://www.behance.net/riseldazani" target="_blank"><div class="behance icon">  </div></a>
-                      <a href="https://www.instagram.com/riszen7/" target="_blank">  <div class="instagram icon"> </div></a>
                 </div>
-          </div>
+
+                <div class="socialmediacon" style="margin-left:20px; margin-top:10px;">
+                      <ul>
+                          <li><a href="https://www.linkedin.com/in/risiz/"><div class="linkedin"></div></a></li>
+                          <li><a href="https://www.instagram.com/riszen7/"><div class="instagram"></div></a></li>
+                          <li><a href="https://www.behance.net/riseldazani"><div class="behance"></div></a></li>
+                      </ul>
+
+                </div>
+
+              </div>
         </div>
 
-<!--         <div class="secondmenu">
-          <a href="#overview"> <p class="menusel">Overview</p></a>
-          <a href="#inspired"><p class="menusel">Inspired</p></a>
-          <a href="#problem"><p class="menusel">Problem, Goal & Features</p></a>
-          <a href="#competitors"><p class="menusel">Competitors</p></a>
-            <a href="#research"><p class="menusel">Research</p></a>
-            <a href="#userflow"><p class="menusel">Userflow</p></a>
-            <a href="#style"><p class="menusel">Style Guide</p></a>
-            <a href="#design"><p class="menusel">Design/Prototype</p></a>
-            <a href="#takeback"><p class="menusel">Takeback</p></a>
-        </div> -->
-
-        <div class="dummyrowone"></div>
-        <div class="fullbackground" style="grid-row-start: 2;
-          grid-row-end:4;background-color:#CCEFF0"></div>
-        <div class="threetosixrow3">
-            <div class="inspo"></div>
-        </div>
-
-        <div id="overview"></div>
-        <div class="explaincon">
-            <div class="explanation" style ="margin-top:50px;">
-              <h2>InspoGen</h2>
-              <p>An inspiration generator that has a quick & advanced options.
-                Taking from personal conflicts & discussing with other writers
-                & artists. A solution for writers' & artists' block. Information
-                 architecture, user testing, UI & UX design.</p>
-            </div>
-          </div>
-
-        <div class="explaininfo" style ="margin-top:50px;">
-            <h4>Tools</h4>
-            <p >ADOBE XD
-            </p>
-
-            <h4>Skills</h4>
-          <p>  UX & UI<br>
-  Information Architecture<br>
-  Research: Card Sorting, Interview
 
 
+        <div class="contentcontainer">
+          <div class="projectview constyle">
+              <div class="inspogen"></div>
+              <div class="projectviewtext">
 
-                          </p>
+                      <h2><strong>InspoGen:</strong>Passion Project</h2>
+                      <p>A Solution for a writer and artist's block. Generating ideas without obstructing creative thought</p>
+                      <a href="https://xd.adobe.com/view/7ad54bd8-acd3-4842-6ac2-b8c4d946111c-0ce4/?fullscreen&hints=off/"target="_blank" style="text-decoration:none;"><div class="outboundbutton" style="width:80px;">Prototype</div></a>
+
+                      <ul>
+                            <li><span>UX/UI</span></li>
+                            <li><span>Research</span></li>
+                            <li><span>Info Artitecture</span></li>
+                            <li><span>Problem Solving</span></li>
+                      </ul>
+                      <div class="filler"></div>
+              </div>
+      </div>
+
+
+                          <div id="question">
+                              <div class="constyle question">
+                                    <h2> How may we relief a writer's or artist's
+                                          block without obstructing their creative
+                                          process in an efficient way?
+                                    </h2>
+                              </div>
+                         </div>
+
+
+                         <div id="tools">
+                              <div class="constyle tools">
+                                <div class="toolsrow1">
+                                      <h3>Tools</h3>
+                                      <ul style="margin-top:-5px;">
+                                        <li> ADOBE XD</li>
+                                         <li>HTML/CSS</li>
+                                         <li>JavaScript</li>
+                                         <li>InDesign, Illustrator</li>
+                                      </ul>
+                                      <h3>Skills</h3>
+                                      <ul style="margin-top:-5px;">
+                                        <li>UX/UI</li>
+                                      <li>Research</li>
+                                        <li>Information Architecture</li>
+                                        <li>Interviewing</li>
+                                      </ul>
+                                  </div>
+
+                                  <div class="toolsrow2">
+
+                                    </div>
+                            </div>
+                         </div>
+
+
+                         <div id="question">
+                             <div class="constyle question" style="background-color:#FCFCFC; margin-top:40%;">
+                                   <h2> <strong>Inspired by my passion for creative writing, digital art,
+                                     a need for a generator that doesn't exists and my first JavaScript project
+                                   </strong>
+                                   </h2>
+                             </div>
+                        </div>
+
+
+
+                  <div id ="promptgen"style="margin-top:40%">
+                    <div class="infotopninfo">
+                    <div class="projectview constyle">
+                        <div class="inspogener"></div>
+                        <div class="projectviewtext">
+
+                                <h1>Inspired By</h1>
+                                <h3 style="color:#0C327F">The First Prompt Generator I created</h3>
+
+                                  <p style="margin-top:0px;">
+                                      • Targeting Writer's who need a quick prompt<br>
+                                         • Inspired by a creative writing activity done in elementary school<br>
+                                      • Took my passion to create something I still use today
+                                  </p>
+
+                                    <a href="http://ixd0095.firebird.sheridanc.on.ca/prompt_gen/"target="_blank" style="text-decoration:none;">
+                                      <div class="outboundbutton">View Generator</div></a>
+
+                                <div class="filler"></div>
+                        </div>
+                </div>
+              </div>
+                  </div>
+
+
+
+                <div id="direction" style="margin-top:40%;">
+                  <div class="constyle fact">
+
+                      <h1>Problem Statement</h1>
+                      <p style="font-weight:500;">
+                        Writers and artists <strong>need quick inspiration </strong>or decision to continue their work,
+                        rather than <strong> losing valuable time</strong>. Current generator/inspiration websites either
+                         have only words, or pictures. Navigation is <strong>confusing</strong>, too dated or missing
+                         aspects that is normally. In addition, they tend to have <strong>too much or too
+                         little information</strong>.
+                      </p>
+
+                      <h1 style="margin-top:40px;">Project Goal</h1>
+                      <p class="textwidth" style="font-weight:500;">
+                        Inspiration Generator’s goal is to cater to three different users (<strong>hobbyists, teachers, professionals</strong>)
+                        who are story creators. The website will allow a level of personalization so that the user may receive
+                        the best options. The website is consistent of <strong>user friendly navigation</strong>, providing the user to <strong>choose
+                         the level of customization</strong>, inspiring and quality imagery
+.
+                      </p>
+
+                      <h1 style="margin-top:40px;">Competitors</h1>
+                      <p>Masterpiece-generator.uk<br>
+                      Seventhsanctum.com</p>
+
+                      <ul>
+                          <li style="font-weight:500;">• Dated Design</li>
+                          <li style="font-weight:500;">• Not consistent </li>
+                          <li style="font-weight:500;">• Navigation is confusing (no form to go back, or
+                             wording is unclear of the contents of the page)</li>
+                          <li style="font-weight:500;">• Too complex answers or no filtering system</li>
+                          <li style="font-weight:500;">• Information Anxiety</li>
+                      </ul>
+                  </div>
+                </div>
+
+
+                  <div id="research">
+                    <div class="infotopninfo">
+                    <div class="projectview constyle">
+                        <div class="insptest"></div>
+                        <div class="projectviewtext">
+
+                                <h1>Research: Card Sorting</h1>
+                                <h3 style="color:#0C327F">Online & Paper</h3>
+                                <p style="margin-top:-20px;"><i style="font-weight:400">Sorting variables into different categories</i></p>
+                                <h3 style="color:#0C327F">Result</h3>
+
+                                  <ul style="margin-top:-20px;">
+                                      <li>• The word 'settings' is thought to be located in Genre</li>
+                                      <li>• Location would include time.</li>
+                                      <li>• In other cases, an option meant random, twists etc.</li>
+                                      <li>• It’s expected that plots would normally be include genres.</li>
+                                      <li>• Location would have a word description.</li>
+                                  <ul>
+
+                                <div class="filler"></div>
+                        </div>
+                </div>
+              </div>
+                  </div>
+
+                  <div id="styleguide" style="margin-top:40%;">
+
+                    <div class="constyle projectview" style="background-color:white; box-shadow:none;">
+                        <h1 style="margin-bottom:5%;margin-left:10%;">Style Guide</h1>
+                          <div class="inspostyle" style="margin-left:3%;"></div>
+                    </div>
+                  </div>
+
+
+
+
+                <div id="features" style="margin-top:40%;">
+                      <div class="constyle projectview">
+                            <h1 style="margin-bottom:15%;">Features</h1>
+                            <div class="inspof1"></div>
                       </div>
-      </div>
+
+                      <div class="constyle projectview">
+                            <div class="inspof2"></div>
+                      </div>
 
 
-<div class="process">
-  <div class="brigadequestion holder" style="background-color:#CCEFF0;">
-      <div id="inspired"></div>
-        <div class="threetofive"><div class="inspodream"></div></div>
-        <div class="question fivetosix">
-        <h1 style="margin-bottom:20px;">Inspired by my passion for writing and digital painting</h1>
-
-        <h4>My Personal Experience</h4>
-        <p>As a creative writer & digital painter, I'd fall into times where I need quick inspiration or a decision to be made to keep going on forward,
-        instead of spending a lot of time dwelling on one decision. I didn't want to create generators that cheated the process of creating either. I'm
-      currently looking to fully develop the website (except a more modified design). This is based off my first use of javascript project <a href="http://ixd0095.firebird.sheridanc.on.ca/prompt_gen2/"style ="text-decoration: underline;">Prompt Generator</a></p>
-        </div>
-  </div>
-
-  <div class="holdersolution">
-      <div id="problem"></div>
-    <div class="explanation three column2" style="height:150px;">
-      <h2>Problem Statement</h2>
-      <p>Writers and artists need <strong>quick inspiration</strong> or decision to continue their work, rather than losing<strong> valuable time</strong>. Current generator/inspiration websites either have only words, or pictures. Navigation is confusing, too dated or missing aspects that is normally. In addition, they tend to have too little information or not enough</p>
-        <br><br>
-
-        <h2> Project Goal</h2>
-        <p>Inspiration Generator’s goal is to cater to three
-different users (hobbyists, teachers, professionals) who are
-story creators. The website will allow a level of personalization
-so that the user may receive the best options. The
-website is consistent of user friendly navigation, providing
-the user to choose the level of customization, inspiring
-and quality imagery </p>
-
-    </div>
-
-
-    <div class="container fivetosix">
-          <h1 style=" font-size: 25px;
-          font-family: museo-sans-rounded, sans-serif;
-          font-weight: 700;  color:#FAB42A;">Features</h1>
-          <ul>
-          <li>
-            <input type="checkbox" checked>
-            <i></i>
-            <h2>Quick or Advanced</h2>
-            <p> The first generators in each page is the quick version. A person who'se looking to do something quick is going to stay on the site for a shorter amount of time and give up quickly.
-            However, someone who'se looking for in more depth will stay longer. Thus, advanced is placed second. It has a lot of details, covering different aspects of a story or design. </p>
-          </li>
-          <li>
-            <input type="checkbox" checked>
-            <i></i>
-            <h2>Word & Picture Generators</h2>
-            <p>Most generators just have either one or the other. Images spark inspirations as well. It was important to include it, while also sourcing images from different websites that are free to use.</p>
-          </li>
-          <li>
-            <input type="checkbox" checked>
-            <i></i>
-            <h2>Save/Copy</h2>
-            <p> The ability to save/copy or even download what was generated for later onto their own computer.</p>
-          </li>
-          </ul>
+                      <div class="constyle projectview">
+                            <div class="inspof3"></div>
+                      </div>
                 </div>
-  </div>
 
-  <div class="workexperience holdersolution" style="background-color:#CCEFF0">
-        <div id="competitors"></div>
-    <div class="threetosixrow2">
-      <h2 style="font-size:60px;">Competitors</h2>
-      <h4>Masterpiece-generator.uk<br>
-        Seventhsanctum.com
-</h4>
 
+                <div id="design">
+                    <div class="constyle imagentext">
+                        <div class="leftcolors">
+                          <ul>
+                              <li><div class="circle" style="background-color:#44C1C7"></div></li>
+                              <li><div class="circle" style="background-color:#BEE3D2"></div></li>
+                              <li><div class="circle" style="background-color:#F3E6C2;"></div></li>
+                          <ul>
+                        </div>
+                        <div class="textleft">
+                          <h3>Design<h3>
+                          <ul>
+                              <li>• Avenir, modern, sans-serif font</li>
+                              <li>• Showing hierarchy by placement of importance and scale</li>
+                              <li>• Flat design</li>
+                          <ul>
+                            <h3>Colour Scheme</h3>
+                            <p>Calm, inspiring, minimal<p>
+                            <ul>
+                                <li>• Pastel color pallete.</li>
+                                <li>• Teal represents creativity, openiness</li>
+                                <li>• Colourful to resemble creativity but overwhelming</li>
+                            <ul>
+
+                        </div>
+
+                    </div>
+                </div>
+
+
+
+
+              <div id ="reflection" style="margin-top:40%;">
+
+              <div class="constyle fact">
+                  <h1>Reflection</h1>
+                  <ul style="max-width:450px;">
+                      <li>• How many different individuals think</li>
+                      <li>• To be wrong about your assumptions is a good feeling </li>
+                      <li>• The amount of detail needed and how to organize the detail to create something that's fairly simple </li>
+                      <li>• Using previous work, experiences, hobbies to my benefit</li>
+                  </ul>
+                  <a href="https://xd.adobe.com/view/7ad54bd8-acd3-4842-6ac2-b8c4d946111c-0ce4/?fullscreen&hints=off/"target="_blank" style="text-decoration:none;"><div class="outboundbutton" style="width:80px;">Prototype</div></a>
+
+              </div>
+            </div>
+
+
+              <div class="constyle ending">
+                <div class="introtext textwidth">
+
+                      <h2>Currently seeking for an <strong>Intership</strong> for the summer of 2020!</h2>
+                      <p>Learn more about me <a href="about.html">here!</a> <br>Contact me at:<a href="mailto:zani@sheridancollege.ca?Subject=Portoflio%20"> zani@sheridancollege.ca</a></p>
+                </div>
+              </div>
+
+
+
+
+
+
+
+
+
+    <div class="mobilesocial socialmediacon">
+          <ul>
+              <li><a href="https://www.linkedin.com/in/risiz/"><div class="linkedin"></div></a></li>
+              <li><a href="https://www.instagram.com/riszen7/"><div class="instagram"></div></a></li>
+              <li><a href="https://www.behance.net/riseldazani"><div class="behance"></div></a></li>
+          </ul>
+          <div class="filler"></div>
     </div>
-    <div class="five">
-
-    <h4 style="margin-bottom:-10px; margin-top:20px;">Summary</h4>
-    <ul>
-        <li style="margin-left:-40px;">• Dated Design </li>
-        <li style="margin-left:-40px;">• Not user friendly: links are not correct </li>
-          <li style="margin-left:-40px;">• Layout is poor, confusing and breaking rules</li>
-            <li style="margin-left:-40px;">• Too complex answers or no filtering system</li>
-            <li style="margin-left:-40px;">• Information Anxiety.</li>
-    </ul>
-  </div>
-  </div>
-
-  <div class="research holdersolution" style="background-color:#FFF4E8">
-        <div id="research"></div>
-    <div class="threetosixrow2">
-        <div class="insptest"></div>
-    </div>
-    <div class="five">
-
-    <h2 style="margin-bottom:-10px;">Research</h2>
-    <h4 style="margin-top:20px;">Summary</h4>
-    <p>
-Users often associated different words in different categories all together or locations. For example:
-<br><br>
-• The word 'settings' is thought to be located in Genre<br>
-• Location would include time.<br>
-• In other cases, an option meant random, twists etc.<br>
-• It’s expected that plots would normally be include genres.<br>
-• Location would have a word description.<br>
-</p>
-
-    <ul>
-        <li style="margin-left:-40px;">• Dated Design </li>
-        <li style="margin-left:-40px;">• Not user friendly: links are not correct </li>
-          <li style="margin-left:-40px;">• Layout is poor, confusing and breaking rules</li>
-            <li style="margin-left:-40px;">• Too complex answers or no filtering system</li>
-            <li style="margin-left:-40px;">• Information Anxiety.</li>
-    </ul>
-  </div>
-  </div>
-
-  <div class ="holderprototype">
-      <div id="userflow"></div>
-        <h2 class="three" style="grid-row:1; margin-top:30px;">Userflow</h2>
-      <div class="inspuser threetosixrow2"></div>
-  </div>
-
-  <div class ="holderprototype"  style="background-color:#CCEFF0">
-      <div id="style"></div>
-        <h2 class="three" style="grid-row:1; margin-top:30px;">Style guide</h2>
-      <div class="inspstyle threetosixrow2"></div>
-  </div>
-  <div id="design"></div>
-
-  <div class="holderprototype">
-
-          <div class="four">
-            <div class="inspchar"></div>
-          </div>
 
 
 
-          <div class="rightside" style="background-color:#FFF4E8"></div>
-          <div class="leftside" style="background-color:#FFD88A"></div>
-          <div class="designinfo fivetosixrow4">
-            <h2>Design</h2>
-            <ul>
-              <li style="margin-left:-40px;">• Quick Generator Placed first</li>
-              <li style="margin-left:-40px;">• Filtering System </li>
-              <li style="margin-left:-40px;">• Contains cards cover three different areas ex.Biological, Personality & history</li>
-            </ul>
-
-              <h4 style="margin-top:20px;">Colorscheme</h4>
-              <p style="margin-top:0px;"><i>Minimal, pastel, inspiring</i></p>
-              <ul>
-                <li style="margin-left:-40px;">• Teal resembles creativity, calmness</li>
-                <li style="margin-left:-40px;">• Used pale tones of color so that it's not too distracting but allows the user be able to distinct areas</li>
-                <li style="margin-left:-40px;">• Buttons have a clear color to resemble change</li>
-              </ul>
-              <a href="https://xd.adobe.com/view/7ad54bd8-acd3-4842-6ac2-b8c4d946111c-0ce4/?fullscreen&hints=off" target="_blank" style="text-decoration: none;">
-            <div class="highlightbutton" style="margin-left:0px; background-color:#44C1C6">View Prototype</div></a>
-
-          </div>
-
-  </div>
-
-
-    <div id="takeback"></div>
-  <div class="holdersolutiontwo">
-
-      <div class="three">
-        <div class="explanation" >
-          <h2>Takeback</h2>
-          <p>
-            • Time management<br>
-• Prioritizing certain aspects<br>
-• How different words are associated with different words then expected<br>
-• Experience in conducting interviews<br>
-• What it means to present for design verses business or problem solving solution<br>
-</p>
         </div>
-
-          <div class="explanation" style="height:110px; margin-top: 20px;">
-            <h2>Result</h2>
-            <p> A website that I truly want to see the end of. From my personal use but also to share for others needing inspiration.
- Learning to love being wrong to learn the many different ways people think. </p>
-          </div>
-
-
-      </div>
-
-
-
-
+  </div>
   </div>
 
+  <script>
 
-
-</div>
-  <div class="footer"></div>
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script src="jsfile.js"></script>
-<script>
-
-
+  var video = document.getElementById("myVideo");
+  function myFunction() {
+    if (video.paused) {
+      video.play();
+      btn.innerHTML = "Pause";
+    } else {
+      video.pause();
+      btn.innerHTML = "Play";
+    }
+  }
 
 </script>
 
-
-
-<!-- <p style="float:right; margin-right:40px;  color:#18DFED;"> Website by: Risi Zani</p> -->
 </body>
+
 </html>

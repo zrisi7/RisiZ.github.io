@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221" height="211" viewBox="0 0 221 211">
+  <g id="Group_343" data-name="Group 343" transform="translate(-2706 416)">
+    <rect id="Rectangle_229" data-name="Rectangle 229" width="221" height="211" transform="translate(2706 -416)" fill="#fcfcfc"/>
+    <g id="Group_254" data-name="Group 254" transform="translate(1315.571 -675.233)">
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="94.198" cy="94.198" r="94.198" transform="translate(1406.429 270.233)" fill="#63ffbb" opacity="0.3"/>
+      <g id="Expanded" transform="translate(1430.905 295.419)">
+        <rect id="Rectangle_97" data-name="Rectangle 97" width="154" height="121" transform="translate(5.095 3.581)" fill="#36ecce"/>
+        <g id="Group_253" data-name="Group 253" transform="translate(0 0)">
+          <g id="Group_243" data-name="Group 243">
+            <path id="Path_28" data-name="Path 28" d="M150.26,139.77H13.66A13.674,13.674,0,0,1,0,126.11V23.66A13.674,13.674,0,0,1,13.66,10h68.3a3.415,3.415,0,1,1,0,6.83H13.66a6.837,6.837,0,0,0-6.83,6.83V126.11a6.837,6.837,0,0,0,6.83,6.83h136.6a6.837,6.837,0,0,0,6.83-6.83V23.66a6.837,6.837,0,0,0-6.83-6.83,3.415,3.415,0,1,1,0-6.83,13.674,13.674,0,0,1,13.66,13.66V126.11A13.674,13.674,0,0,1,150.26,139.77Z" transform="translate(0 -10)" fill="#36ecce"/>
+          </g>
+          <g id="Group_244" data-name="Group 244" transform="translate(34.15 13.66)">
+            <path id="Path_29" data-name="Path 29" d="M126.11,116.45H10V14H112.45c1.885,0-3.415,1.53-3.415,3.415s5.3,3.415,3.415,3.415H16.83v88.79H119.28V20.83h-6.83a3.415,3.415,0,0,1,0-6.83h13.66Z" transform="translate(-10 -14)" fill="#36ecce"/>
+            <rect id="Rectangle_96" data-name="Rectangle 96" width="105" height="91" transform="translate(5.945 5.921)" fill="#8ef5e7"/>
+          </g>
+          <g id="Group_245" data-name="Group 245" transform="translate(0 20.49)">
+            <path id="Path_30" data-name="Path 30" d="M27.32,104.79H0V16H27.32ZM6.83,97.96H20.49V22.83H6.83Z" transform="translate(0 -16)" fill="#36ecce"/>
+          </g>
+          <g id="Group_247" data-name="Group 247" transform="translate(3.415 47.81)">
+            <rect id="Rectangle_94" data-name="Rectangle 94" width="20.49" height="6.83" fill="#ebf4f2"/>
+          </g>
+          <g id="Group_248" data-name="Group 248" transform="translate(3.415 75.13)">
+            <rect id="Rectangle_95" data-name="Rectangle 95" width="20.49" height="6.83" fill="#ebf4f2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Icon_awesome-pen" data-name="Icon awesome-pen" d="M36.743,11.5,47.862,22.386,13.428,57.553,1.506,60.7a2.784,2.784,0,0,1-3.175-3.15L1.506,45.761,36.743,11.5ZM58.349,4.785l-2.956-3.05a6.212,6.212,0,0,0-8.611,0l-7.17,6.973L50.286,19.514,58.349,11.5c.9-1.256,2.377-4.4,0-6.712Z" transform="translate(2829.991 -354.031)" fill="#f5f5f5"/>
+  </g>
+</svg>

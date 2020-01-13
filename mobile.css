@@ -1,0 +1,243 @@
+@media only screen and (max-width: 900px) {
+
+
+
+  .bodycontainer {
+      display: grid;
+      grid-template-columns: 5% 90% 5%;
+
+  }
+  .container {
+    margin-top:50px;
+
+
+    /* size */
+    width: 100%;
+    height: 500px;
+
+    /* where in the grid*/
+    grid-column:2;
+
+    /* it's own grid */
+    display: grid;
+    grid-template-columns: 0% 100%
+  }
+
+    .menubox {
+      display:none;
+    }
+
+    .mobilemenu {
+      z-index:5;
+      display:block;
+      position:fixed;
+      height:40px;
+      width:100%;
+      padding-bottom:20px;
+      background-color:white;
+      /* animation:myfirst 5s;
+      -moz-animation:myfirst 5s infinite; /* Firefox */
+      /* -webkit-animation:myfirst 5s infinite; /* Safari and Chrome */ */ */
+    }
+
+          .mobilelogo {
+            float:left;
+            background-size:contain;
+            background-repeat:no-repeat;
+            background-image:url("logo.png");
+            height: 60px;
+            width:20px;
+            margin:15px;
+            margin-left:20px;
+          }
+            .mobilemenu ul {
+              margin-left:70px;
+              float:right;
+            }
+            .mobilemenu li {
+              float:left;
+              margin-right:30px;
+              font-size:20px;
+
+            }
+
+          .mobilemenu a {
+            color:#B6D0D8;
+            text-decoration: none;
+          }
+
+  }
+
+
+    @media only screen and (max-width: 480px) {
+
+      body {
+        background-image:url("patternsmall.png");
+      }
+
+      .constyle {
+        margin-top:20%;
+      }
+
+      .container {
+        margin-top:60px;
+      }
+      h1 {
+        font-size: 27px;
+        margin:10px;
+      }
+
+      h2 {
+        font-size: 20px;
+      }
+
+      h3 {
+        font-size:20px;
+      }
+
+      p {
+        font-size: 15px;
+        font-weight:700;
+      }
+
+      li {
+        font-weight: 400;
+      }
+
+      .intro {
+        padding-top:10px;
+        margin-bottom:10%;
+      }
+
+      .projectviewtext span {
+        font-size: 12px;
+      }
+
+      .projectviewtext li {
+        margin-top:2px;
+      }
+
+      .projectview {
+        margin-top:10%;
+      }
+
+      .projectviewtext {
+        margin-top:-20px;
+      }
+
+      .projectviewtext ul {
+        margin-top:-5px;
+      }
+
+      .filler {
+        height:60px;
+      }
+
+      .ending {
+        margin-bottom:10%;
+        margin-top:10%;
+      }
+
+      .mobilesocial {
+        display:block;
+        margin:5%;
+
+      }
+
+      .tools {
+        padding-left:10%;
+        padding-right:10%;
+        width: 70%;
+      }
+
+      .tools p{
+        font-size:14px;
+      }
+
+
+      /* ECOBIN **************************************************/
+
+      .imagentext {
+      grid-template-columns: 100%;
+      grid-template-rows: 30% 70%;
+      }
+
+          .leftimage {
+              grid-row:1;
+              background-size:cover;
+              width: 100%;
+              height:200px;
+          }
+
+          .textleft {
+              grid-column:1;
+              grid-row:2;
+              padding:10%;
+          }
+
+          .textleft li{
+              margin-top:20px;
+
+          }
+
+
+          .fact {
+            padding:10%;
+            width: 70%;
+          }
+
+          .solution {
+            grid-template-columns:  100%;
+            grid-template-rows: 50% 50%;
+            margin-top:40%;
+          }
+
+                  .solution .textleft {
+                    margin-bottom:0%;
+                  }
+
+          #myVideo {
+            padding: 10%;
+            height: 500px;
+            width: 80%;
+            margin-bottom:10%;
+            grid-row:1;
+          }
+
+
+
+          .solution .textleft {
+            padding:10%;
+              margin-top:10%;
+
+          }
+
+          #features {
+            margin-top:0;
+          }
+
+              #features h1 {
+                display:block;
+              }
+
+
+              #design .textleft {
+                margin-top:-15%;
+              }
+
+              .leftcolors {
+                padding:10%;
+
+
+              }
+
+                    .circle {
+                      float:left;
+                      margin:10px;
+                    }
+
+            #design .textleft {
+              margin-bottom: 20%;
+            }
+
+    }

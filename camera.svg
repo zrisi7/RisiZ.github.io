@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221" height="211" viewBox="0 0 221 211">
+  <g id="Group_342" data-name="Group 342" transform="translate(-3041 479)">
+    <rect id="Rectangle_227" data-name="Rectangle 227" width="221" height="211" transform="translate(3041 -479)" fill="#fcfcfc"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="94.198" cy="94.198" r="94.198" transform="translate(3057 -468)" fill="#63ffbb" opacity="0.3"/>
+    <g id="camera" transform="translate(3057 -456.733)">
+      <path id="Path_24" data-name="Path 24" d="M55.765,20.5A37.765,37.765,0,1,0,93.53,58.265,37.807,37.807,0,0,0,55.765,20.5Z" transform="translate(38.647 32.206)" fill="#36ecce"/>
+      <path id="Path_25" data-name="Path 25" d="M173.722,36.971H146.9L134.308,5.5H54.517L41.929,36.971H37.765V21.235H18.882V36.971H15.1A15.117,15.117,0,0,0,0,52.074V144.5a15.227,15.227,0,0,0,15.21,15.21H173.615a15.227,15.227,0,0,0,15.21-15.21V52.074A15.117,15.117,0,0,0,173.722,36.971Zm-142.251,0H25.177V27.53h6.294ZM94.412,147.119A56.647,56.647,0,1,1,151.06,90.471,56.713,56.713,0,0,1,94.412,147.119Zm69.236-72.383a12.588,12.588,0,1,1,12.588-12.588A12.6,12.6,0,0,1,163.648,74.736Z" fill="#36ecce"/>
+    </g>
+  </g>
+</svg>

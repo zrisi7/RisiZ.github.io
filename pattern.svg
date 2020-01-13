@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="545" height="815.209" viewBox="0 0 545 815.209">
+  <g id="Group_236" data-name="Group 236" transform="translate(22 47)">
+    <rect id="Rectangle_224" data-name="Rectangle 224" width="545" height="815" transform="translate(-22 -47)" fill="#fff"/>
+    <g id="Polygon_1" data-name="Polygon 1" transform="matrix(0.788, 0.616, -0.616, 0.788, 365.405, 173.399)" fill="none">
+      <path d="M14,0,28,20H0Z" stroke="none"/>
+      <path d="M 14 5.231389999389648 L 5.761972427368164 17 L 22.23802757263184 17 L 14 5.231389999389648 M 14 0 L 28 20 L 0 20 L 14 0 Z" stroke="none" fill="#d4fbe9"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(370 48)" fill="none" stroke="#d4fbe9" stroke-width="3">
+      <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+      <circle cx="9.5" cy="9.5" r="8" fill="none"/>
+    </g>
+    <g id="Polygon_2" data-name="Polygon 2" transform="matrix(0.899, -0.438, 0.438, 0.899, 122.724, 86.146)" fill="none">
+      <path d="M21.5,0,43,34H0Z" stroke="none"/>
+      <path d="M 21.5 5.613134384155273 L 5.446540832519531 31 L 37.55345916748047 31 L 21.5 5.613134384155273 M 21.5 0 L 43 34 L 0 34 L 21.5 0 Z" stroke="none" fill="#d4fbe9"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(123 303)" fill="none" stroke="#d4fbe9" stroke-width="5">
+      <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+      <circle cx="15.5" cy="15.5" r="13" fill="none"/>
+    </g>
+    <g id="Polygon_3" data-name="Polygon 3" transform="translate(228.427 520.065) rotate(41)" fill="none">
+      <path d="M21.5,0,43,34H0Z" stroke="none"/>
+      <path d="M 21.5 5.613134384155273 L 5.446540832519531 31 L 37.55345916748047 31 L 21.5 5.613134384155273 M 21.5 0 L 43 34 L 0 34 L 21.5 0 Z" stroke="none" fill="#d4fbe9"/>
+    </g>
+    <g id="Polygon_4" data-name="Polygon 4" transform="matrix(0.469, -0.883, 0.883, 0.469, 74.396, 756.003)" fill="none">
+      <path d="M14.5,0,29,26H0Z" stroke="none"/>
+      <path d="M 14.5 6.159292221069336 L 5.108066558837891 23 L 23.89193344116211 23 L 14.5 6.159292221069336 M 14.5 0 L 29 26 L 0 26 L 14.5 0 Z" stroke="none" fill="#d4fbe9"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(206 665)" fill="none" stroke="#d4fbe9" stroke-width="3">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="4.5" fill="none"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(401 619)" fill="none" stroke="#d4fbe9" stroke-width="5">
+      <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+      <circle cx="15.5" cy="15.5" r="13" fill="none"/>
+    </g>
+  </g>
+</svg>
