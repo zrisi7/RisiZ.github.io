@@ -156,6 +156,10 @@ p {
         margin:10px;
       }
 
+      .outboundbutton {
+          margin-bottom:8%;
+      }
+
       h2 {
         font-size: 20px;
       }
@@ -317,7 +321,7 @@ p {
               height:60px;
             }
 
-            
+
             .constyleabout {
 
 
@@ -333,6 +337,34 @@ p {
               grid-column: 1;
               grid-row:2;
             }
+
+
+
+                                      .jiminspo {
+                                        grid-column: 1;
+                                        background-color:red;
+                                        background-image:url("jiminspo.png");
+                                        background-repeat: no-repeat;
+                                        background-size:cover;
+                                        height: 200px;
+                                        width: 100%;
+
+                                      }
+
+                                                                .vrmocks {
+                                                                  grid-column: 1;
+                                                                  background-color:#DAF8FE;
+                                                                  background-image:url("mockup.png");
+                                                                  background-repeat: no-repeat;
+                                                                  background-size:cover;
+                                                                  height: 250px;
+                                                                  width: 100%;
+                                                                  margin-bottom:40%;
+
+                                                                }
+
+
+
 
 
     }
