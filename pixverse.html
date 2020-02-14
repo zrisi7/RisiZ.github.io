@@ -38,6 +38,20 @@ strong {
   background-color:#5EA8A2;
 }
 
+#features .projectview {
+    padding: 0% }
+
+#myVideo {
+  background-size:contain;
+
+  padding: 0%;
+  width: 100%;
+  height: 100%;
+  padding-bottom:10%;
+  z-index:-1;
+}
+
+
 </style>
 
 <body>
@@ -91,6 +105,7 @@ strong {
                               <li style><a href="#risks">Risks</a></li>
                                 <li style><a href="#prevention">Prevention</a></li>
                                   <li style><a href="#witch">Rendered Model</a></li>
+                                  <li style><a href="#ar">AR</a></li>
                             <!-- <li style><a href="#design">Design</a></li> -->
 
                     </ul>
@@ -164,7 +179,7 @@ strong {
                                         <h3>Teammates</h3>
                                         <ul style="margin-top:-5px;">
                                           <li>Risi Zani</li>
-                                          <li>Chetna </li>
+                                          <li>Chenta </li>
                                           <li>Neora</li>
                                           <li>Steffi</li>
                                         </p>
@@ -274,7 +289,16 @@ strong {
                    <div id="witch">  <div class="constyle projectview">
                          <div class="pixwitch"></div>
                    </div>
-</div>
+                  </div>
+
+                  <div id="ar">  <div class="constyle projectview">
+                    <h3 style="font-size:40px;"> AR </h3>
+                    <video autoplay muted loop id="myVideo">
+                          <source src="pixar.mp4" type="video/mp4">
+                            Your browser does not support HTML5 video.
+                    </video>
+                  </div>
+                 </div>
 
   </div>
 
@@ -287,7 +311,7 @@ strong {
                       <p> Feel free to watch my progress! Will be updated as I progress. Currently working on developing models for the website and AR Component  we will be creating.</p>
                   </ul>
 
-                    
+
 
               </div>
             </div>
@@ -300,6 +324,7 @@ strong {
                       <p>Learn more about me <a href="about.html">here!</a>
                         <br>Contact me at:<a href="mailto:zani@sheridancollege.ca?Subject=Portoflio%20">
                           zani@sheridancollege.ca</a></p>
+                          <p style="color:#44C1C6"><i> Website coded with</i> ♥️ </p> 
                 </div>
               </div>
 
@@ -326,6 +351,8 @@ strong {
   </div>
 
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="jsfile.js"></script>
   <script>
 
   var video = document.getElementById("myVideo");
