@@ -1,0 +1,370 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1312" height="543.5" viewBox="0 0 1312 543.5">
+  <defs>
+    <filter id="Rectangle_22" x="0" y="0" width="1312" height="487" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14.5" result="blur"/>
+      <feFlood flood-color="#f1f3f9"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_609" data-name="Group 609" transform="translate(-304.5 -305.5)">
+    <g transform="matrix(1, 0, 0, 1, 304.5, 305.5)" filter="url(#Rectangle_22)">
+      <rect id="Rectangle_22-2" data-name="Rectangle 22" width="1225" height="400" rx="25" transform="translate(43.5 33.5)" fill="#fff"/>
+    </g>
+    <g id="Group_567" data-name="Group 567" transform="translate(58 6)">
+      <g id="Group_106" data-name="Group 106" transform="translate(807 -232)">
+        <g id="Group_100" data-name="Group 100">
+          <text id="Playing_Games" data-name="Playing Games" transform="translate(159 892)" fill="#393939" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Playing Games</tspan></text>
+          <text id="Prevention_Recovery" data-name="Prevention/Recovery" transform="translate(159 846)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em"><tspan x="0" y="0">Prevention/Recovery</tspan></text>
+          <g id="Group_27" data-name="Group 27" transform="translate(-55 45)">
+            <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(461 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(480 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(499 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(518 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(537 788)" fill="#fff" stroke="#5ac3ff" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+          </g>
+          <g id="Group_28" data-name="Group 28" transform="translate(50 45)">
+            <g id="Ellipse_3-2" data-name="Ellipse 3" transform="translate(461 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_4-2" data-name="Ellipse 4" transform="translate(480 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_5-2" data-name="Ellipse 5" transform="translate(499 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_6-2" data-name="Ellipse 6" transform="translate(518 788)" fill="none" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_7-2" data-name="Ellipse 7" transform="translate(537 788)" fill="#fff" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_107" data-name="Group 107" transform="translate(-518 130)">
+        <text id="Talk_to_someone" data-name="Talk to someone" transform="translate(915 431)" fill="#393939" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Talk to someone</tspan></text>
+        <text id="Recovery" transform="translate(919 390)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em"><tspan x="0" y="0">Recovery</tspan></text>
+        <g id="Group_86" data-name="Group 86" transform="translate(703 -412)">
+          <g id="Ellipse_3-3" data-name="Ellipse 3" transform="translate(461 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_4-3" data-name="Ellipse 4" transform="translate(480 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_5-3" data-name="Ellipse 5" transform="translate(499 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_6-3" data-name="Ellipse 6" transform="translate(518 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_7-3" data-name="Ellipse 7" transform="translate(537 788)" fill="none" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_87" data-name="Group 87" transform="translate(813 -411)">
+          <g id="Ellipse_3-4" data-name="Ellipse 3" transform="translate(461 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_4-4" data-name="Ellipse 4" transform="translate(480 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_5-4" data-name="Ellipse 5" transform="translate(499 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_6-4" data-name="Ellipse 6" transform="translate(518 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_7-4" data-name="Ellipse 7" transform="translate(537 788)" fill="none" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_104" data-name="Group 104" transform="translate(238 130)">
+        <text id="Take_A_Deep_Breath" data-name="Take A Deep Breath" transform="translate(159 337)" fill="#393939" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Take A Deep Breath</tspan></text>
+        <text id="Recovery-2" data-name="Recovery" transform="translate(159 295)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em"><tspan x="0" y="0">Recovery</tspan></text>
+        <g id="Group_29" data-name="Group 29" transform="translate(-55 -510)">
+          <g id="Ellipse_3-5" data-name="Ellipse 3" transform="translate(461 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_4-5" data-name="Ellipse 4" transform="translate(480 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_5-5" data-name="Ellipse 5" transform="translate(499 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_6-5" data-name="Ellipse 6" transform="translate(518 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Intersection_1" data-name="Intersection 1" transform="translate(531 801) rotate(180)" fill="#fff">
+            <path d="M 6.499509811401367 12.50048446655273 C 3.191370010375977 12.50048446655273 0.5 9.808564186096191 0.5 6.499753952026367 C 0.5 3.191484212875366 3.191370010375977 0.5000041127204895 6.499509811401367 0.5000041127204895 C 6.499669075012207 0.5000041127204895 6.49984073638916 0.5000044107437134 6.5 0.5000044107437134 L 6.5 12.50048351287842 C 6.499839305877686 12.50048351287842 6.499670505523682 12.50048446655273 6.499509811401367 12.50048446655273 Z" stroke="none"/>
+            <path d="M 6 1.022492408752441 C 3.200843811035156 1.275793075561523 1 3.635619163513184 1 6.499753952026367 C 1 9.364398956298828 3.200843811035156 11.72464561462402 6 11.97799205780029 L 6 1.022492408752441 M 6.499509811401367 3.814697265625e-06 C 6.667850017547607 3.814697265625e-06 6.834839820861816 0.006474494934082031 7 0.01904392242431641 L 7 12.98156452178955 C 6.834839820861816 12.99414443969727 6.667850017547607 13.00048446655273 6.499509811401367 13.00048446655273 C 2.910399913787842 13.00048446655273 0 10.08996391296387 0 6.499753952026367 C 0 2.91064453125 2.910399913787842 3.814697265625e-06 6.499509811401367 3.814697265625e-06 Z" stroke="none" fill="#5ac3ff"/>
+          </g>
+          <g id="Ellipse_7-5" data-name="Ellipse 7" transform="translate(537 788)" fill="#fff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_93" data-name="Group 93" transform="translate(-18)">
+          <g id="Group_91" data-name="Group 91" transform="translate(82 -510)">
+            <g id="Ellipse_3-6" data-name="Ellipse 3" transform="translate(461 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_4-6" data-name="Ellipse 4" transform="translate(480 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_5-6" data-name="Ellipse 5" transform="translate(499 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_6-6" data-name="Ellipse 6" transform="translate(518 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_7-6" data-name="Ellipse 7" transform="translate(537 788)" fill="none" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <rect id="Rectangle_1" data-name="Rectangle 1" width="10" height="13" transform="translate(524 788)" fill="#fff"/>
+          </g>
+          <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(599 278)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Intersection_2" data-name="Intersection 2" transform="translate(612 291) rotate(180)" fill="#fff">
+            <path d="M 6.499509811401367 12.50048446655273 C 3.191370010375977 12.50048446655273 0.5 9.808564186096191 0.5 6.499753952026367 C 0.5 3.191484212875366 3.191370010375977 0.5000041127204895 6.499509811401367 0.5000041127204895 C 6.499669075012207 0.5000041127204895 6.49984073638916 0.5000044107437134 6.5 0.5000044107437134 L 6.5 12.50048351287842 C 6.499839305877686 12.50048351287842 6.499670505523682 12.50048446655273 6.499509811401367 12.50048446655273 Z" stroke="none"/>
+            <path d="M 6 1.022492408752441 C 3.200843811035156 1.275793075561523 1 3.635619163513184 1 6.499753952026367 C 1 9.364398956298828 3.200843811035156 11.72464561462402 6 11.97799205780029 L 6 1.022492408752441 M 6.499509811401367 3.814697265625e-06 C 6.667850017547607 3.814697265625e-06 6.834839820861816 0.006474494934082031 7 0.01904392242431641 L 7 12.98156452178955 C 6.834839820861816 12.99414443969727 6.667850017547607 13.00048446655273 6.499509811401367 13.00048446655273 C 2.910399913787842 13.00048446655273 0 10.08996391296387 0 6.499753952026367 C 0 2.91064453125 2.910399913787842 3.814697265625e-06 6.499509811401367 3.814697265625e-06 Z" stroke="none" fill="#fc93ee"/>
+          </g>
+          <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(599 278)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_105" data-name="Group 105" transform="translate(-518 329)">
+        <text id="Watching_TV_Netflix_etc." data-name="Watching TV/Netflix etc." transform="translate(915 327)" fill="#393939" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Watching TV/Netflix etc.</tspan></text>
+        <g id="Group_49" data-name="Group 49" transform="translate(703 -515)">
+          <g id="Ellipse_3-7" data-name="Ellipse 3" transform="translate(461 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_4-7" data-name="Ellipse 4" transform="translate(480 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_5-7" data-name="Ellipse 5" transform="translate(499 788)" fill="none" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_6-7" data-name="Ellipse 6" transform="translate(518 788)" fill="none" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_7-7" data-name="Ellipse 7" transform="translate(537 788)" fill="none" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_50" data-name="Group 50" transform="translate(822 -515)">
+          <g id="Ellipse_3-8" data-name="Ellipse 3" transform="translate(461 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_4-8" data-name="Ellipse 4" transform="translate(480 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_5-8" data-name="Ellipse 5" transform="translate(499 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_6-8" data-name="Ellipse 6" transform="translate(518 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_7-8" data-name="Ellipse 7" transform="translate(537 788)" fill="none" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+        </g>
+        <text id="Recovery-3" data-name="Recovery" transform="translate(919 285)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em"><tspan x="0" y="0">Recovery</tspan></text>
+        <g id="Ellipse_13" data-name="Ellipse 13" transform="translate(1202 273)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+          <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+          <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+        </g>
+        <g id="Intersection_3" data-name="Intersection 3" transform="translate(1215 286) rotate(180)" fill="#fff">
+          <path d="M 6.499509811401367 12.50048446655273 C 3.191370010375977 12.50048446655273 0.5 9.808564186096191 0.5 6.499753952026367 C 0.5 3.191484212875366 3.191370010375977 0.5000041127204895 6.499509811401367 0.5000041127204895 C 6.499669075012207 0.5000041127204895 6.49984073638916 0.5000044107437134 6.5 0.5000044107437134 L 6.5 12.50048351287842 C 6.499839305877686 12.50048351287842 6.499670505523682 12.50048446655273 6.499509811401367 12.50048446655273 Z" stroke="none"/>
+          <path d="M 6 1.022492408752441 C 3.200843811035156 1.275793075561523 1 3.635619163513184 1 6.499753952026367 C 1 9.364398956298828 3.200843811035156 11.72464561462402 6 11.97799205780029 L 6 1.022492408752441 M 6.499509811401367 3.814697265625e-06 C 6.667850017547607 3.814697265625e-06 6.834839820861816 0.006474494934082031 7 0.01904392242431641 L 7 12.98156452178955 C 6.834839820861816 12.99414443969727 6.667850017547607 13.00048446655273 6.499509811401367 13.00048446655273 C 2.910399913787842 13.00048446655273 0 10.08996391296387 0 6.499753952026367 C 0 2.91064453125 2.910399913787842 3.814697265625e-06 6.499509811401367 3.814697265625e-06 Z" stroke="none" fill="#5ac3ff"/>
+        </g>
+      </g>
+      <g id="Group_95" data-name="Group 95" transform="translate(51 -76)">
+        <text id="Mediation" transform="translate(915 542)" fill="#393939" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Mediation</tspan></text>
+        <g id="Group_37" data-name="Group 37" transform="translate(688 -307)">
+          <g id="Ellipse_3-9" data-name="Ellipse 3" transform="translate(461 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_4-9" data-name="Ellipse 4" transform="translate(480 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_5-9" data-name="Ellipse 5" transform="translate(499 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_6-9" data-name="Ellipse 6" transform="translate(518 788)" fill="none" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_7-9" data-name="Ellipse 7" transform="translate(537 788)" fill="none" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+        </g>
+        <text id="Prevention_Methods" data-name="Prevention Methods" transform="translate(915 494)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em"><tspan x="0" y="0">Prevention Methods</tspan></text>
+        <g id="Group_94" data-name="Group 94" transform="translate(725 203)">
+          <g id="Group_91-2" data-name="Group 91" transform="translate(82 -510)">
+            <g id="Ellipse_3-10" data-name="Ellipse 3" transform="translate(461 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_4-10" data-name="Ellipse 4" transform="translate(480 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_5-10" data-name="Ellipse 5" transform="translate(499 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_6-10" data-name="Ellipse 6" transform="translate(518 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <g id="Ellipse_7-10" data-name="Ellipse 7" transform="translate(537 788)" fill="none" stroke="#fc93ee" stroke-width="1">
+              <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+              <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+            </g>
+            <rect id="Rectangle_1-2" data-name="Rectangle 1" width="10" height="13" transform="translate(524 788)" fill="#fff"/>
+          </g>
+          <g id="Ellipse_11-2" data-name="Ellipse 11" transform="translate(599 278)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Intersection_2-2" data-name="Intersection 2" transform="translate(612 291) rotate(180)" fill="#fff">
+            <path d="M 6.499509811401367 12.50048446655273 C 3.191370010375977 12.50048446655273 0.5 9.808564186096191 0.5 6.499753952026367 C 0.5 3.191484212875366 3.191370010375977 0.5000041127204895 6.499509811401367 0.5000041127204895 C 6.499669075012207 0.5000041127204895 6.49984073638916 0.5000044107437134 6.5 0.5000044107437134 L 6.5 12.50048351287842 C 6.499839305877686 12.50048351287842 6.499670505523682 12.50048446655273 6.499509811401367 12.50048446655273 Z" stroke="none"/>
+            <path d="M 6 1.022492408752441 C 3.200843811035156 1.275793075561523 1 3.635619163513184 1 6.499753952026367 C 1 9.364398956298828 3.200843811035156 11.72464561462402 6 11.97799205780029 L 6 1.022492408752441 M 6.499509811401367 3.814697265625e-06 C 6.667850017547607 3.814697265625e-06 6.834839820861816 0.006474494934082031 7 0.01904392242431641 L 7 12.98156452178955 C 6.834839820861816 12.99414443969727 6.667850017547607 13.00048446655273 6.499509811401367 13.00048446655273 C 2.910399913787842 13.00048446655273 0 10.08996391296387 0 6.499753952026367 C 0 2.91064453125 2.910399913787842 3.814697265625e-06 6.499509811401367 3.814697265625e-06 Z" stroke="none" fill="#fc93ee"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_99" data-name="Group 99" transform="translate(-445 -326)">
+        <text id="Therapy" transform="translate(1411 894)" fill="#393939" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Therapy</tspan></text>
+        <text id="Prevention_Methods-2" data-name="Prevention Methods" transform="translate(1411 846)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em"><tspan x="0" y="0">Prevention Methods</tspan></text>
+        <g id="Group_41" data-name="Group 41" transform="translate(1184 45)">
+          <g id="Ellipse_3-11" data-name="Ellipse 3" transform="translate(461 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_4-11" data-name="Ellipse 4" transform="translate(480 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_5-11" data-name="Ellipse 5" transform="translate(499 788)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_6-11" data-name="Ellipse 6" transform="translate(518 788)" fill="none" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_7-11" data-name="Ellipse 7" transform="translate(537 788)" fill="none" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_42" data-name="Group 42" transform="translate(1303 45)">
+          <g id="Ellipse_3-12" data-name="Ellipse 3" transform="translate(461 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_4-12" data-name="Ellipse 4" transform="translate(480 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_5-12" data-name="Ellipse 5" transform="translate(499 788)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_6-12" data-name="Ellipse 6" transform="translate(518 788)" fill="none" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Ellipse_7-12" data-name="Ellipse 7" transform="translate(537 788)" fill="none" stroke="#fc93ee" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_98" data-name="Group 98" transform="translate(500 560)">
+          <g id="Ellipse_18" data-name="Ellipse 18" transform="translate(1202 273)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+            <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+            <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+          </g>
+          <g id="Intersection_5" data-name="Intersection 5" transform="translate(1215 286) rotate(180)" fill="#fff">
+            <path d="M 6.499509811401367 12.50048446655273 C 3.191370010375977 12.50048446655273 0.5 9.808564186096191 0.5 6.499753952026367 C 0.5 3.191484212875366 3.191370010375977 0.5000041127204895 6.499509811401367 0.5000041127204895 C 6.499669075012207 0.5000041127204895 6.49984073638916 0.5000044107437134 6.5 0.5000044107437134 L 6.5 12.50048351287842 C 6.499839305877686 12.50048351287842 6.499670505523682 12.50048446655273 6.499509811401367 12.50048446655273 Z" stroke="none"/>
+            <path d="M 6 1.022492408752441 C 3.200843811035156 1.275793075561523 1 3.635619163513184 1 6.499753952026367 C 1 9.364398956298828 3.200843811035156 11.72464561462402 6 11.97799205780029 L 6 1.022492408752441 M 6.499509811401367 3.814697265625e-06 C 6.667850017547607 3.814697265625e-06 6.834839820861816 0.006474494934082031 7 0.01904392242431641 L 7 12.98156452178955 C 6.834839820861816 12.99414443969727 6.667850017547607 13.00048446655273 6.499509811401367 13.00048446655273 C 2.910399913787842 13.00048446655273 0 10.08996391296387 0 6.499753952026367 C 0 2.91064453125 2.910399913787842 3.814697265625e-06 6.499509811401367 3.814697265625e-06 Z" stroke="none" fill="#5ac3ff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_566" data-name="Group 566" transform="translate(0 -28)">
+      <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(378 829)" fill="#5ac3ff" stroke="#5ac3ff" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <text id="Anxiety_Level" data-name="Anxiety Level" transform="translate(399 842)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em"><tspan x="0" y="0">Anxiety Level</tspan></text>
+      <text id="Level_Anxiety_Effects_Life" data-name="Level Anxiety Effects Life" transform="translate(595 842)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em"><tspan x="0" y="0">Level Anxiety Effects Life</tspan></text>
+      <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(574 829)" fill="#fc93ee" stroke="#fc93ee" stroke-width="1">
+        <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+        <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+      </g>
+      <text id="_Average_" data-name="*Average " transform="translate(378 870)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em" opacity="0.25"><tspan x="0" y="0">*Average </tspan></text>
+      <text id="_Average_2" data-name="*Average " transform="translate(574 870)" fill="#363636" font-size="20" font-family="Poppins-Regular, Poppins" letter-spacing="0.065em" opacity="0.25"><tspan x="0" y="0">*Average </tspan></text>
+    </g>
+  </g>
+</svg>

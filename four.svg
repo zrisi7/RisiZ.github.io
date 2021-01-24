@@ -1,0 +1,10 @@
+<svg id="four" xmlns="http://www.w3.org/2000/svg" width="125" height="13" viewBox="0 0 125 13">
+  <circle id="Ellipse_58" data-name="Ellipse 58" cx="6.5" cy="6.5" r="6.5" fill="#e11c71"/>
+  <circle id="Ellipse_59" data-name="Ellipse 59" cx="6.5" cy="6.5" r="6.5" transform="translate(28)" fill="#e11c71"/>
+  <circle id="Ellipse_60" data-name="Ellipse 60" cx="6.5" cy="6.5" r="6.5" transform="translate(56)" fill="#e11c71"/>
+  <circle id="Ellipse_61" data-name="Ellipse 61" cx="6.5" cy="6.5" r="6.5" transform="translate(84)" fill="#e11c71"/>
+  <g id="Ellipse_62" data-name="Ellipse 62" transform="translate(112)" fill="none" stroke="#3b3b3b" stroke-width="2">
+    <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+    <circle cx="6.5" cy="6.5" r="5.5" fill="none"/>
+  </g>
+</svg>
